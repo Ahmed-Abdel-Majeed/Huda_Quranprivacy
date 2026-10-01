@@ -1,0 +1,71 @@
+# Privacy Policy for Huda Quran (سياسة الخصوصية لتطبيق هُدَى)
+
+**Effective Date:** October 1, 2026  
+**Application Name:** Huda Quran (هُدَى - القرآن الكريم)  
+**Application ID:** `com.hudaquran.app`  
+**Developer:** Ahmed Abdel Majeed  
+
+---
+
+## English Version
+
+### 1. Overview
+Welcome to **Huda Quran** ("we", "our", or "us"). We are committed to protecting your privacy. This Privacy Policy explains our practices regarding data collection, usage, and disclosure for our mobile application.
+
+### 2. Data Collection and Usage
+- **No Personal Data Collected:** Huda Quran is designed as an offline-first, privacy-focused application. We do not require account creation, registration, or any personal identification details (such as your name, email address, phone number, or location).
+- **No Tracking or Analytics:** We do not track your activity, use third-party analytics services, or share any data with third parties.
+
+### 3. Local Storage Preferences
+The app saves reading preferences strictly on your local device storage using standard device storage mechanisms (`SharedPreferences`):
+- Last read Surah and Ayah position (for continuing reading).
+- Font size, font style (e.g., bold), and visual display mode preferences.
+
+This data remains strictly on your physical device and is never uploaded, transmitted, or backed up to external servers by our app.
+
+### 4. Device Permissions
+Huda Quran does not request any sensitive permissions such as location, contacts, camera, or microphone.
+
+### 5. Third-Party Services
+Our application does not integrate third-party advertising SDKs, tracking tools, or external backend servers.
+
+### 6. Children's Privacy
+Huda Quran does not address or target anyone under the age of 13 specifically, but as a Quranic reading application, it contains no inappropriate content and collects no information from children or adults.
+
+### 7. Changes to This Privacy Policy
+We may update our Privacy Policy from time to time. Any updates will be posted in this file with an updated effective date.
+
+### 8. Contact Us
+If you have any questions or suggestions about our Privacy Policy, please contact us at:  
+- **Email:** support@hudaquran.app (or your developer email)
+
+---
+
+## النسخة العربية (Arabic Version)
+
+### 1. مقدمة
+مرحباً بكم في تطبيق **"هُدَى" (Huda Quran)**. نحن نلتزم التزاماً تاماً بحماية خصوصيتك. توضح سياسة الخصوصية هذه كيفية تعامل التطبيق مع البيانات.
+
+### 2. جمع البيانات واستخدامها
+- **لا نسجل أو نجمع أي بيانات شخصية:** تم تصميم تطبيق "هُدَى" ليعمل بدون الاتصال بالإنترنت (Offline-first) مع احترام كامل للخصوصية. لا يطلب التطبيق إنشاء حساب، أو التسجيل، أو إدخال أي معلومات تعريفية شخصية (مثل الاسم، البريد الإلكتروني، رقم الهاتف، أو الموقع الجغرافي).
+- **لا توجد أدوات تتبع أو تحليلات:** نحن لا نستخدم أي برمجيات لتتبع نشاط المستخدمين، أو خدمات تحليلات طرف ثالث، ولا نشارك أي بيانات مع أي جهة خارجية.
+
+### 3. التخزين المحلي والتفضيلات
+يستخدم التطبيق مساحة التخزين المحلية للذاكرة داخل جوالك فقط (`SharedPreferences`) لحفظ تفضيلات القراءة:
+- موضع آخر آية وسورة تم الوقوف عليها (لمتابعة القراءة).
+- إعدادات حجم الخط، نمط الخط، ونمط العرض الفردي أو المستمر.
+
+هذه البيانات تخزن **محلياً وحصرياً على هاتفك** ولا يتم رفعها أو نقلها لأي خوادم خارجية إطلاقاً.
+
+### 4. الصلاحيات المطلوب إعطاؤها
+لا يطلب تطبيق "هُدَى" أي صلاحيات حساسة مثل الكاميرا، الميكروفون، الجهات الاتصال، أو تحديد الموقع الجغرافي.
+
+### 5. خدمات الأطراف الثالثة
+لا يحتوي التطبيق على إعلانات تجارية (Ads) أو حزم برمجية خارجية لإعادة التوجيه والإعلانات الموجهة.
+
+### 6. خصوصية الأطفال
+التطبيق مناسب لجميع الأعمار ولا يجمع أي معلومات من أي شخص.
+
+### 7. للتواصل معنا
+إذا كان لديك أي استفسار حول سياسة الخصوصية، يمكنك التواصل معنا عبر البريد الإلكتروني الخاص بالمطور.
+email - ahmedabdelmajed2002@gmail.com
